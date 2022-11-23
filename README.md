@@ -38,9 +38,8 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Program : 
 DART studio screen shots for linear interpolation 
 and DART studio screen shots for joint interpolation 
-![Screenshot 2022-11-21 183955](https://user-images.githubusercontent.com/113031811/203064551-05646db8-caba-4eb1-84fd-c4fc1789a886.png)
 
-
+![Screenshot 2022-11-23 171804](https://user-images.githubusercontent.com/113031811/203539942-53b42270-4fe9-4364-ad1f-cc969ebf9f5d.png)
 
 
 
@@ -61,10 +60,10 @@ and DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
-![Screenshot 2022-11-21 184019](https://user-images.githubusercontent.com/113031811/203064568-3b5d1629-6ba5-4fe4-adc6-b9c7b2b723f8.png)
+![Screenshot 2022-11-23 171824](https://user-images.githubusercontent.com/113031811/203539856-5fdc8dc7-a604-46a5-9e6d-587b44a43f72.png)
+![Screenshot 2022-11-23 171839](https://user-images.githubusercontent.com/113031811/203539864-933d8d0b-e325-4194-ae81-77d012c6cbcc.png)
+![Screenshot 2022-11-23 171900](https://user-images.githubusercontent.com/113031811/203539905-dece87fd-5c0c-4ed5-aea2-a27f4bc0f3b6.png)
 
-
-![Screenshot 2022-11-21 184036](https://user-images.githubusercontent.com/113031811/203064578-a495eca1-8af2-49ca-b434-f026ce2b4272.png)
 
 
 
