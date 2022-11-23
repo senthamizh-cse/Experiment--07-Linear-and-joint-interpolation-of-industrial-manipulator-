@@ -61,7 +61,9 @@ and DART studio screen shots for joint interpolation
 ### Robot movements 
 
 ![Screenshot 2022-11-23 171824](https://user-images.githubusercontent.com/113031811/203539856-5fdc8dc7-a604-46a5-9e6d-587b44a43f72.png)
+
 ![Screenshot 2022-11-23 171839](https://user-images.githubusercontent.com/113031811/203539864-933d8d0b-e325-4194-ae81-77d012c6cbcc.png)
+
 ![Screenshot 2022-11-23 171900](https://user-images.githubusercontent.com/113031811/203539905-dece87fd-5c0c-4ed5-aea2-a27f4bc0f3b6.png)
 
 
